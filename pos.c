@@ -3,13 +3,10 @@ int main()
 {
 int n;
 scanf("%d",&n);
-if(n>0){
-	printf("Positive");
-}
-else if(n<0){
-	printf("Negative");
+if(n%2==0){
+	printf("Even");
 }
 else{
-	printf("Zero");
+	printf("Odd");
 }
 }
