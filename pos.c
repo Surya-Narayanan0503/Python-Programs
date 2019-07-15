@@ -6,7 +6,10 @@ scanf("%d",&n);
 if(n%2==0){
 	printf("Even");
 }
-else{
+else if (n%2==1){
 	printf("Odd");
+}
+else{
+	printf("Invalid");
 }
 }
