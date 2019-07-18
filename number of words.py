@@ -1,2 +1,3 @@
 s=str(input())
-print(len(s.split()))
+Size=len(s.split())
+print(Size)
