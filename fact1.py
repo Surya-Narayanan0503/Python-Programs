@@ -6,4 +6,5 @@ if a==0:
 else:
 	for i in range(1,a+1):
 		num=num*i
-print(num)
+		temp=num
+print(temp)
