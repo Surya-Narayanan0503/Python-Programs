@@ -1,2 +1,3 @@
 list=map(int,input().split())
-print(max(list))
+mm=max(list)
+print(mm)
