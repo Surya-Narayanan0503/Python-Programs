@@ -1,2 +1,3 @@
 n=input()
-print(n,end=".")
+n=i
+print(i,end=".")
